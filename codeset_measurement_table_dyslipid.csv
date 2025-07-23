@@ -1,0 +1,17 @@
+﻿concept_id,concept_name,standard_concept,cluster
+3027114,Cholesterol [Mass/volume] in Serum or Plasma,Standard,TC
+3015232,Cholesterol [Mass/volume] in Body fluid,Standard,TC
+3022192,Triglyceride [Mass/volume] in Serum or Plasma,Standard,TG
+3000637,Triglyceride [Mass/volume] in Body fluid,Standard,TG
+3027997,Triglyceride [Mass/volume] in Serum or Plasma --fasting,Standard,TG
+3013678,Triglyceride [Mass/volume] in Serum or Plasma --12 hours fasting,Standard,TG
+3028288,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,Standard,LDL
+3009596,Cholesterol in VLDL [Mass/volume] in Serum or Plasma by calculation,Standard,LDL
+3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma,Standard,LDL
+40760809,Lipid panel with direct LDL - Serum or Plasma,Standard,LDL
+3009966,Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay,Standard,LDL
+3007352,Cholesterol in VLDL [Mass/volume] in Serum or Plasma,Standard,LDL
+3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,Standard,HDL
+3044491,Cholesterol non HDL [Mass/volume] in Serum or Plasma,Standard,non-HDL
+3014791,Apolipoprotein B [Mass/volume] in Serum or Plasma,Standard,ApoB
+3034387,Apolipoprotein B-100 [Mass/volume] in Serum or Plasma,Standard,ApoB
